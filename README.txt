@@ -359,4 +359,7 @@ if __name__ == "__main__":
 
 AI yang digunakan: 
 Gemini as AI Agent
+
 Claude as  Code Finalization
+
+Link Video via Youtube: https://youtu.be/E2lpY757v1o
